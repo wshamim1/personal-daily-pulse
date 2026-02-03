@@ -1,0 +1,12 @@
+{
+  "name": "personal-daily-pulse-backend",
+  "version": "1.0.0",
+  "description": "Backend API for PersonalDailyPulse",
+  "main": "app.py",
+  "scripts": {
+    "start": "python3 app.py"
+  },
+  "keywords": ["flask", "api", "daily-log"],
+  "author": "",
+  "license": "ISC"
+}
