@@ -25,11 +25,9 @@
 ### Events Discovery
 ![Events](screenshots/events.png)
 
-### Food & Restaurants
-![Food](screenshots/food.png)
 
-### AI Chatbot
-![Chatbot](screenshots/chatbot.png)
+### Settings
+![Chatbot](screenshots/settings.png)
 
 > **Note:** Add your screenshots to the `screenshots/` folder with the names: `home.png`, `articles.png`, `news.png`, `events.png`, `food.png`, `chatbot.png`
 
